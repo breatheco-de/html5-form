@@ -29,7 +29,7 @@ https://github.com/4GeeksAcademy/html-hello
 7. Si estás utilizando Bootstrap: para practicar todas las clases que Bootstrap te brinda para diseñar sus formularios, casi no necesitas CSS propio.
 
 ## 📒 Recursos
-Solo si estás usando Bootstrap: aquí está la [documentación de Bootstrap 5 sobre formularios](https://getbootstrap.com/docs/5.0/forms/overview/). Intenta entender el código HTML detrás de los ejemplos para que puedas modificarlos en tu solución.
+Solo si estás usando Bootstrap: aquí está la [documentación de Bootstrap 5 sobre formularios](https://getbootstrap.com/docs/5.3/forms/overview/). Intenta entender el código HTML detrás de los ejemplos para que puedas modificarlos en tu solución.
 
 ## Estrategia
 
